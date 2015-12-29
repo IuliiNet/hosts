@@ -15,7 +15,7 @@ fd00:1111:2222::2:1			wdr.potcravero.lii potcravero
 
 ### iuliinet::cisgui			
 10.100.3.1                              tplink.cisgui.lii cisgui
-10.100.3.2 				nsloco5.cisgui.lii
+10.100.3.2 				nslocom5.cisgui.lii
 fd00:1111:2222::3:1			tplink.cisgui.lii cisgui
 
 ### iuliinet::draha			
