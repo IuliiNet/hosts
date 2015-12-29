@@ -3,7 +3,7 @@
 
 ### iuliinet::franz			
 10.100.1.1                              tplink.franz.lii franz
-10.100.1.2                              nslocom5.franz.lii
+10.100.1.2                              nsm5.franz.lii
 fd00:1111:2222::1:1	 		tplink.franz.lii franz
 
 ### iuliinet::potcravero		
