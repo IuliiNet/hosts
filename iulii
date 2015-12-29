@@ -3,24 +3,24 @@
 
 ### iuliinet::franz			
 10.100.1.1                              tplink.franz.lii franz
-10.100.1.2                              nslm5.franz.lii
+10.100.1.2                              nslocom5.franz.lii
 fd00:1111:2222::1:1	 		tplink.franz.lii franz
 
 ### iuliinet::potcravero		
 10.100.2.1				wdr.potcravero.lii potcravero
 10.100.2.4				nsm5.potcravero.lii
-10.100.2.5				nslm5.potcravero.lii
+10.100.2.5				nslocom5.potcravero.lii
 10.100.2.6				nsm2.potcravero.lii
 fd00:1111:2222::2:1			wdr.potcravero.lii potcravero
 
 ### iuliinet::cisgui			
 10.100.3.1                              tplink.cisgui.lii cisgui
-10.100.3.2 				nsl5.cisgui.lii
+10.100.3.2 				nsloco5.cisgui.lii
 fd00:1111:2222::3:1			tplink.cisgui.lii cisgui
 
 ### iuliinet::draha			
 10.100.4.1                              tplink.draha.lii draha
-10.100.4.2 				nslm2.draha.lii
+10.100.4.2 				nslocom2.draha.lii
 fd00:1111:2222::4:1	 		tplink.draha.lii draha
 
 ### iuliinet::tarbi
@@ -36,7 +36,7 @@ fd00:1111:2222::6:1                     tplink.branna.lii branna
 ### iuliinet:koslic 			
 10.100.7.1				kino.koslic.lii kino
 10.100.7.2				sun.koslic.lii sun iulii.lii
-10.100.7.3				nslocom2.koslic.lii
-10.100.7.4				nslocom5.koslic.lii
+10.100.7.3				nslocom5.koslic.lii
+10.100.7.4				nslocom2.koslic.lii
 fd00:1111:2222::7:1			kino.koslic.lii kino
 fd00:1111:2222:0:218:7dff:fe0b:b331	share.koslic.lii sun.koslic.lii
