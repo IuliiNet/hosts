@@ -35,8 +35,8 @@ fd00:1111:2222::6:1                     tplink.branna.lii branna
 
 ### iuliinet:koslic 			
 10.100.7.1				kino.koslic.lii kino
-10.100.7.2				sun.koslic.lii sun iulii.lii
+10.100.7.2				sun.koslic.lii sun iulii.lii emby.koslic.lii
 10.100.7.3				nslocom5.koslic.lii
 10.100.7.4				nslocom2.koslic.lii
 fd00:1111:2222::7:1			kino.koslic.lii kino
-fd00:1111:2222:0:218:7dff:fe0b:b331	share.koslic.lii sun.koslic.lii
+fd00:1111:2222:0:218:7dff:fe0b:b331	share.koslic.lii sun.koslic.lii emby.koslic.lii
